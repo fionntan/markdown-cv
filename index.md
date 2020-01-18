@@ -4,7 +4,13 @@ title: Fionntán O'Donnell's CV
 ---
 # Fionntán O'Donnell
 
-<a href="https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/" target="_blank">LinkedIn profile</a>
+<div id="webaddress">
+<a href="https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/" target="_blank">LinkedIn</a>
+</div>
+
+<div id="webaddress">
+<a href="https://twitter.com/fionntan_tech" target="_blank">Twitter: @fionntan_tech</a>
+</div>
 
 ## Experience
 
