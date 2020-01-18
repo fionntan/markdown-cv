@@ -102,7 +102,6 @@ __Research Assistant__
 - • [Hands-on synthetic data tutorial for programmers](https://github.com/theodi/synthetic-data-tutorial) – part of the Anonymisation project in the Open Data Institute
 - • [A Brief Guide to BBC R&D’s Video Face Recognition](https://medium.com/bbc-news-labs/a-brief-guide-to-bbc-r-ds-video-face-recognition-27f6253c0dc8)
 
-
 ## Education
 
 `2007-2008`
