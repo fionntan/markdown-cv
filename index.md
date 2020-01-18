@@ -5,9 +5,11 @@ title: Fionntán O'Donnell's CV
 # Fionntán O'Donnell
 
 <div id="webaddress">
-<a href="fionntan@fastmail.com">fionntan@fastmail.com</a>
+<a href="mailto:fionntan@fastmail.com" target="_top">fionntan@fastmail.com</a>
 </div>
 +44 74 0356 7325
+
+<a href="https://www.linkedin.com/in/fionnt%C3%A1n-o-donnell-93b3099b/" target="_blank">LinkedIn profile</a>
 
 ## Experience
 
