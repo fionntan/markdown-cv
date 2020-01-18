@@ -1,4 +1,3 @@
 _site/
 .sass-cache/
-.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910
-.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e0/66aa54a8ced29134a639ad85d656baab9f77d23030d9fa2e7ca76ac8682c9a
+.jekyll*
