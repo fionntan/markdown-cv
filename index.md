@@ -18,21 +18,22 @@ title: Fionntán O'Donnell's CV
 __Senior Data Technologist__
 `Nov 2018 – Present`
 
-Researching how industry and government can use data and AI in ethical, productive and trustworthy ways.
+Research how industry and government can use data and technology in ethical, productive and trustworthy ways.
 
-- • Research the structures, methods and infrastructure needed around the good use of opening and sharing data 
-- • Contribute to ODI's research in many formats - report writing, blog posts, podcasts, talks and software
-- • Help bring ODI work in to the AI industry and also bringing my own AI knowledge in to ODI research
+- • Develop ODI's research through reports, blog posts, podcasts, talks and software
 - • Some programming and development work maintaining the ODI's technical tools
 - • Translate more technical concepts internally to colleagues
 - • Consultation work with external clients in government and industry
+- • Project lead work – handling budgets, resourcing and client partnerships
+- • Applying for funding and grant applications
 
-Specific longer-term project work I've done at the ODI:
+Some projects I've worked on at the ODI:
 
 - • [Anonymisation](https://theodi.org/project/rd-broaden-access-to-personal-data-while-protecting-privacy-and-creating-a-fair-market/): currently creating in-person training course on the topic
 - • [Digital Twins](https://theodi.org/project/rd-digital-twins/): Researching and reporting on the upcoming technology of digital twins and how to develop a "national digital twin"
 - • [Trust in Data Institutions](https://theodi.org/project/data-trusts/): how organisations can handle and share data in trustworthy ways
 - • [Full Fact/Google AI for Good](https://fullfact.org/blog/2019/may/full-fact-and-international-partners-win-google-ai-impact-challenge/): working with fact checkers to encourage government to share and better structure societal datasets 
+- • [Open Data for Covid-19](https://theodi.org/topic/covid-19/): the importance of open models for society and how intermediaries play an important role in the movement of data 
 
 
 ### [BBC News Labs](https://bbcnewslabs.co.uk)
@@ -79,7 +80,7 @@ __Research Engineer__
 
 ### [Ghent University](https://www.ugent.be/en)
 __Phd Student__
-`Oct 2009 – Sep 2012`
+`Oct 2009 – August 2012`
 
 - • Deep learning neural networks applied to audio tasks
 - • Designed new AI algorithms using: deep learning networks, support vector machines, unsupervised learning, clustering
@@ -99,6 +100,7 @@ __Research Assistant__
 - • [What we talk about when we talk about fair AI](https://medium.com/bbc-news-labs/what-we-talk-about-when-we-talk-about-fair-ai-8c72204f0798) – deep dive in to fairness, transparency and accountability in artificial intelligence
 - • [Sharing models between ‘digital twins’](https://theodi.org/article/sharing-models-between-digital-twins/) – how we need to create standards when sharing machine learning models
 - • [With great personal data comes great anonymity](https://youtu.be/dTlVo8Xim-4) – talk I gave at the Open Data Institute on maintaining trust while anonymising data
+- • [Sharing models for Covid-19: guidance and tools](https://theodi.org/article/sharing-models-for-covid-19-guidance-and-tools/) – Covid-19 topic but on the importance of opening computational models in general and tools to help do this
 - • [Hands-on synthetic data tutorial for programmers](https://github.com/theodi/synthetic-data-tutorial) – part of the Anonymisation project in the Open Data Institute
 - • [A Brief Guide to BBC R&D’s Video Face Recognition](https://medium.com/bbc-news-labs/a-brief-guide-to-bbc-r-ds-video-face-recognition-27f6253c0dc8)
 
