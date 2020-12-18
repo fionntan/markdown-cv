@@ -31,7 +31,7 @@ Some projects I've worked on at the ODI:
 
 - • [Anonymisation](https://theodi.org/project/rd-broaden-access-to-personal-data-while-protecting-privacy-and-creating-a-fair-market/): currently creating in-person training course on the topic
 - • [Digital Twins](https://theodi.org/project/rd-digital-twins/): Researching and reporting on the upcoming technology of digital twins and how to develop a "national digital twin"
-- • [Trust in Data Institutions](https://theodi.org/project/data-trusts/): how organisations can handle and share data in trustworthy ways
+- • [Building trust through audit and certification](https://theodi.org/project/building-trust-through-audit-and-certification/): how organisations can create, use, and share data in trustworthy ways
 - • [Full Fact/Google AI for Good](https://fullfact.org/blog/2019/may/full-fact-and-international-partners-win-google-ai-impact-challenge/): working with fact checkers to encourage government to share and better structure societal datasets 
 - • [Open Data for Covid-19](https://theodi.org/topic/covid-19/): the importance of open models for society and how intermediaries play an important role in the movement of data 
 
